@@ -30,7 +30,7 @@ The following behaviors are expected and requested of all community members:
 ## 4. Unacceptable Behavior
 
 The following behaviors are considered harassment and are unacceptable within our community:
-
+*   Deviating from Tech both online and physically and engaging in things that serve to distract or confuse the purpose of the group.
 *   Violence, threats of violence or violent language directed against another person.
 *   Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
 *   Posting or displaying sexually explicit or violent material.
